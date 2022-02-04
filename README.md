@@ -315,7 +315,7 @@ sudo mv /etc/vsftpd.conf /etc/vsftpd.conf.bak
    ``` 
 Eine neue Konfigurationsdatei erstellen und mit ```nano``` öffnen:
    ```bash
-sudo mv /etc/vsftpd.conf /etc/vsftpd.conf.bak
+sudo nano /etc/vsftpd.conf
    ``` 
 
 Folgendes hinzufügen:
