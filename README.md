@@ -150,9 +150,9 @@ sudo systemctl reload nginx
 
 ### NGINX als Reverse-Proxy konfigurieren
 Folgende Datei mit einem Editor öffnen und den Inhalt durch den Codeausschnitt ersetzen:
-	 ```bash
-	/etc/nginx/sites-available/default
-	```
+  ```bash
+sudo nano /etc/nginx/sites-available/default
+```
 
 ```bash
 server {
