@@ -4,7 +4,7 @@
 ## Voraussetzungen
 
  - Smartstore Core für Linux X64
- - Ubuntu 20.04.03
+ - Ubuntu 21.10
  - Nicht root Benutzer mit sudo-Rechten
 
 ## Ablauf
